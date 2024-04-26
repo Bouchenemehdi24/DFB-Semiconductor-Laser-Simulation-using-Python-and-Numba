@@ -1,4 +1,4 @@
-# DFB Semiconductor Laser Simulation
+# Accelerate DFB Semiconductor Laser Simulation using Python and Numba
 
 """
 This Python script simulates the behavior of a distributed feedback (DFB) semiconductor laser.
