@@ -1,6 +1,6 @@
 # Accelerate DFB Semiconductor Laser Simulation using Python and Numba
 
-"""
+
 This Python script simulates the behavior of a distributed feedback (DFB) semiconductor laser.
 It models the laser dynamics, output power over time, and optical spectrum. The simulation is based on a set of differential equations and numerical methods.
 
@@ -47,4 +47,4 @@ Simulation Parameters:
 Output:
 - The script computes the laser output power over time (right facet).
 - It generates an optical spectrum (wavelength vs. relative power).
-"""
+
