@@ -4,7 +4,7 @@
 This Python script simulates the behavior of a distributed feedback (DFB) semiconductor laser.
 It models the laser dynamics, output power over time, and optical spectrum. The simulation is based on a set of differential equations and numerical methods.
 
-Author: Mohammed Mehdi Bouchene
+Author: Dr. Mohammed Mehdi Bouchene
 
 References:
 1. Bouchene, M. M., & Hamdi, R. (2018). The effect of facets reflectivity on the static characteristics of (DFB) semiconductor laser.
